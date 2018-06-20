@@ -1,0 +1,32 @@
+{
+  "210357283253780480": {
+    "battle": false,
+    "boss_hp": 0,
+    "user_hp": 1111,
+    "id_boss": 2
+  },
+  "281130228657422336": {
+    "battle": false,
+    "boss_hp": 0,
+    "user_hp": 0,
+    "id_boss": 0
+  },
+  "198525837115392000": {
+    "battle": true,
+    "boss_hp": 80,
+    "user_hp": 100,
+    "id_boss": 3
+  },
+  "246655758979170304": {
+    "battle": false,
+    "boss_hp": 80,
+    "user_hp": 0,
+    "id_boss": 3
+  },
+  "207164575236227072": {
+    "battle": false,
+    "boss_hp": 0,
+    "user_hp": 0,
+    "id_boss": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "0": {
+    "nom": "vide",
+    "atk": 0,
+    "dfn": 0
+  },
+  "1": {
+    "nom": "epee longue",
+    "atk": 10,
+    "buy": 100,
+    "sell": 20,
+    "type": "arme"
+  },
+  "2": {
+    "nom": "epee fer",
+    "atk": 25,
+    "buy": 400,
+    "sell": 100,
+    "type": "arme"
+  },
+  "3": {
+    "nom": "armure en cuir",
+    "dfn": 7,
+    "buy": 70,
+    "sell": 12,
+    "type": "corp"
+  },
+  "4": {
+    "nom": "armure en fer",
+    "dfn": 16,
+    "buy": 320,
+    "sell": 94,
+    "type": "corp"
+  },
+  "5": {
+    "nom": "chaussure en cuir",
+    "dfn": 3,
+    "buy": 55,
+    "sell": 10,
+    "type": "jambe"
+  },
+  "6": {
+    "nom": "chaussure en fer",
+    "dfn": 10,
+    "buy": 200,
+    "sell": 64,
+    "type": "jambe"
+  },
+  "7": {
+    "nom": "gantelet en cuir",
+    "dfn": 5,
+    "buy": 61,
+    "sell": 11,
+    "type": "bras"
+  },
+  "8": {
+    "nom": "gantelet en fer",
+    "dfn": 8,
+    "buy": 150,
+    "sell": 55,
+    "type": "bras"
+  },
+  "9": {
+    "nom": "casque en cuir",
+    "dfn": 2,
+    "buy": 20,
+    "sell": 3,
+    "type": "tete"
+  },
+  "10": {
+    "nom": "casque en fer",
+    "dfn": 5,
+    "buy": 100,
+    "sell": 20,
+    "type": "tete"
+  },
+  "11": {
+    "nom": "bois",
+    "buy": 10,
+    "sell": 1,
+    "type": "autre"
+  }
+
+
+}
