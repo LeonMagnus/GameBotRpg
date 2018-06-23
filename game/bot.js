@@ -9,7 +9,7 @@ const rpg = require("./rpg.js")
 
 //config
 const prefix = "/";
-const token = "MjE5MjU0Mjg2NTgyODA4NTc2.DI1e3g.gSdaFb_9taDCOJ0HO7MXiT6qH0w";
+const token = "";
 bot.login(token);
 
 
